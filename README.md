@@ -31,16 +31,12 @@ Soy estudiante de full-stack. Me apasiona la tecnología y la inovación, por es
 <a href="linkedin.com/in/ricard-mesegue-serra-985505167" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
 <a href="ricardm1995@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=ricardm1995@gmail.com" alt="Gmail"/>
 </a>
 
 
 ---
 
-⭐️ Si te gustan mis proyectos, ¡no olvides darle una estrella!
-
-¡Gracias por visitar mi perfil y echar un vistazo a mis proyectos! Estoy siempre abierto a colaboraciones y nuevas oportunidades.
-
----
-
 ⭐️ No olvides darle una estrella a los repositorios si te resultan útiles o interesantes.
+
+¡Gracias por visitar mi perfil! Estoy siempre abierto a colaboraciones y nuevas oportunidades.
