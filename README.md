@@ -24,13 +24,15 @@ Soy estudiante de full-stack. Me apasiona la tecnología y la inovación, por es
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
 ## Proyectos Destacados
-- **[Instagram Photo Feed](https://github.com/4GeeksAcademy/ricardemese-instagram-photo-feed-with-boostrap)**
-- **[Generador de excusas](https://github.com/4GeeksAcademy/ricardemese-generador-de-excusas-en-JS)**
+**[Instagram Photo Feed](https://github.com/4GeeksAcademy/ricardemese-instagram-photo-feed-with-boostrap)**
+
+**[Generador de excusas](https://github.com/4GeeksAcademy/ricardemese-generador-de-excusas-en-JS)**
 
 ## Contacto
 [![Linkedin](https://img.shields.io/badge/-Ricard_Mesegué_Serra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/ricard-mesegue-serra
 )](www.linkedin.com/in/ricard-mesegue-serra)
 [![Gmail Badge](https://img.shields.io/badge/-ricardemese@icloud.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricardm1995@gmail.com)](mailto:ricardemese@icloud.com)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 
 ---
