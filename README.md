@@ -24,15 +24,13 @@ Soy estudiante de full-stack. Me apasiona la tecnología y la inovación, por es
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
 ## Proyectos Destacados
-- **[Proyecto1](Enlace al proyecto):** Breve descripción del proyecto.
-- **[Proyecto2](Enlace al proyecto):** Breve descripción del proyecto.
+- **[Instagram Photo Feed](https://github.com/4GeeksAcademy/ricardemese-instagram-photo-feed-with-boostrap)**
+- **[Generador de excusas](https://github.com/4GeeksAcademy/ricardemese-generador-de-excusas-en-JS)**
 
 ## Contacto
-<a href="linkedin.com/in/ricard-mesegue-serra-985505167" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/ricard-mesegue-serra-985505167" alt="LinkedIn"/></a>
-<a href="ricardm1995@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=" alt="Gmail"/>
-</a>
+[![Linkedin](https://img.shields.io/badge/-Ricard_Mesegué_Serra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/ricard-mesegue-serra
+)](www.linkedin.com/in/ricard-mesegue-serra)
+[![Gmail Badge](https://img.shields.io/badge/-ricardemese@icloud.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricardm1995@gmail.com)](mailto:ricardemese@icloud.com)
 
 
 ---
