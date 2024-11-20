@@ -30,6 +30,10 @@ Soy desarrollador de full-stack. Me apasiona la tecnología y la inovación, por
 
 **[Generador de excusas](https://github.com/ricardemese/ricardemese-generador-de-excusas-en-JS)**
 
+**[Star Wars Website](https://github.com/ricardemese/ricardemese-star_wars)**
+
+**[InnovAI](https://github.com/ricardemese/Innovai)**
+
 ## Contacto
 [![Linkedin](https://img.shields.io/badge/-Ricard_Mesegué_Serra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/ricard-mesegue-serra
 )](www.linkedin.com/in/ricard-mesegue-serra)
